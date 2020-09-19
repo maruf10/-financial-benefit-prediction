@@ -3,3 +3,9 @@ The data is related with direct marketing campaigns of a Portuguese banking inst
 
 bank-full.csv with all examples, ordered by date (from May 2008 to November 2010).
 bank.csv with 10% of the examples (4521), randomly selected from bank-full.csv.
+Findings.
+
+Here It is observed that the Accurecy of the KNN Classifier model is approx 91.4% . I can say that the model performed the good and it could be better by using oversampling method because of imbalanced classified DataSet.
+
+Here a reduction in Marketing cost about 11.4% in marketing cost can be achieved while maintaining 97.6% sales if any person is called a maximum of 6 times.
+
